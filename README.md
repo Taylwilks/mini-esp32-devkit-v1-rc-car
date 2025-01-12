@@ -12,6 +12,7 @@ JST Connectors
 Micro USB or USB-C Cable (Depending on your ESP32 board)
 Double-Sided Tape (Or fold regular tape over itself)
 Stranded Core Insulated Wire (Various lengths)
+hot glue or super glue
 
 🖨️ Step 1: Print the Frame
 Download the provided STL files or click this link to take you to the maker world site    ( link coming soon ).
