@@ -1,7 +1,3 @@
-# mini-esp32-devkit-v1-rc-car
-an esp32 rc car using n20 motors, a drv8833, and some battery stuffs
-
-
 ⚠️ Important Notes
 Soldering Required: This build involves soldering, including directly to the ESP32 board. If you're not comfortable with soldering A jumper cable-compatible version may be released in the future.
 Frame Version Recommendation: Print only Frame v3 or higher for optimal results. Earlier versions may be fragile or require additional adjustments.
