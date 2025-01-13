@@ -4,16 +4,27 @@ Soldering Required: This build involves soldering, including directly to the ESP
 Frame Version Recommendation: Print only Frame v3 or higher for optimal results. Earlier versions may be fragile or require additional adjustments.
 
 🛠️ Materials Needed
+-
 1x ESP32 Devkit V1
+-
 2x N20 Motors
+-
 1x DRV8833 Motor Driver Board (I recommend the smaller black version)
+-
 1x Li-ion Battery (Rechargeable preferred)
+-
 M2 Screws (Various sizes)
+-
 JST Connectors
+-
 Micro USB or USB-C Cable (Depending on your ESP32 board)
+-
 Double-Sided Tape (Or fold regular tape over itself)
+-
 Stranded Core Insulated Wire (Various lengths)
+-
 hot glue or super glue
+-
 
 🖨️ Step 1: Print the Frame
 Download the provided STL files or click this link to take you to the maker world site    ( link coming soon ).
