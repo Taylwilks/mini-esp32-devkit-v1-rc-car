@@ -43,14 +43,14 @@ Updates and troubleshooting will be added once the firmware is ready.
 
 🛠️ Step 3: Assemble the Components
 -
-1: first of all you will need to remove the suports from the print ( if you can print it to need less suports good on you )
-2: solder the out+ of the tp4056 to the in+ of the boost converter 
-3: place the battery in the space under the esp32 slot feeding the two leads under the esp32 slot ( make sure the two leads dont touch )
-4: solder the + and - wires of the battery to the respective pads on the tp4056 labeld B+ and B-
-5: eather glue ore tape the two boards to the undeside of the frame 
-6: solder two leads to each of the motors exposed pins (to make your life easier use two distinked colors) giving one motor wires about 2cm long and the other about 6cm long
-7: connect the other end of the wires to the drv8833 (make sure to group the motor wires E.G. motor 1 - out 1 - 2)
-8:
+.1: first of all you will need to remove the suports from the print ( if you can print it to need less suports good on you )
+.2: solder the out+ of the tp4056 to the in+ of the boost converter 
+.3: place the battery in the space under the esp32 slot feeding the two leads under the esp32 slot ( make sure the two leads dont touch )
+.4: solder the + and - wires of the battery to the respective pads on the tp4056 labeld B+ and B-
+.5: eather glue ore tape the two boards to the undeside of the frame 
+.6: solder two leads to each of the motors exposed pins (to make your life easier use two distinked colors) giving one motor wires about 2cm long and the other about 6cm long
+.7: connect the other end of the wires to the drv8833 (make sure to group the motor wires E.G. motor 1 - out 1 - 2)
+.8:
 
 💡 Tips and Future Updates
 -
