@@ -45,11 +45,11 @@ Updates and troubleshooting will be added once the firmware is ready.
 -
 .1: first of all you will need to remove the suports from the print ( if you can print it to need less suports good on you )
 
-.2: solder the out+ of the tp4056 to the in+ of the boost converter 
+.2: solder the out+ and out- of the tp4056 to the in+ and in- of the boost converter 
 
-.3: place the battery in the space under the esp32 slot feeding the two leads under the esp32 slot ( make sure the two leads dont touch )
+.3: place the battery in the space under the esp32 slot feeding the two leads under the esp32 slot ( make sure the two exposed parts of the leads leads dont touch )
 
-.4: solder the + and - wires of the battery to the respective pads on the tp4056 labeld B+ and B-
+.4: solder the + and - wires of the battery to the respective pads on the tp4056 labeld B+ and B- ensuring to first cut the red wire in half soldering a slide switch inbetween both halfes
 
 .5: eather glue ore tape the two boards to the undeside of the frame 
 
@@ -57,7 +57,9 @@ Updates and troubleshooting will be added once the firmware is ready.
 
 .7: connect the other end of the wires to the drv8833 (make sure to group the motor wires E.G. motor 1 - out 1 - 2)
 
-.8:
+.8: from the boost converter run two leads (red and black) from the out + and - pads to the gnd and vcc pins on the drv8833 and to the vin and gnd pins on the esp32 board
+
+.9: on the back of the drv8833 there are pins labeld in 1 - 4, run a wire from each one to the data pins D23 D22 D21 and D19 respectivly 
 
 💡 Tips and Future Updates
 -
