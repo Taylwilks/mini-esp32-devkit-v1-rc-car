@@ -65,9 +65,14 @@ Updates and troubleshooting will be added once the firmware is ready.
 
 .11: fit the motor wheels on the motor rod x2 and the non motor wheels in the empty wheel sockets (the non motor wheels will need 1 screw each
 
-.12 conect the esp32 to you computer and using arduino idle flash the provided firmware to the esp32 
+.12: conect the esp32 to you computer and using arduino idle flash the provided firmware to the esp32 
 
-.13 now get your duleshock 4 controler and hold down the share and PS button until the light flashes then waight for it to connect to the esp32
+.13: now get your duleshock 4 controler and hold down the share and PS button until the light flashes then waight for it to connect to the esp32
+
+.14: now we can test, when you press X the car should move forward, triangle backwards, and the left and right arrows will move left and right respectivlty
+        (if the motors move the wrong way you will need to swap the motor wires around.
+
+.15: cause mayhem with your new rc esp32 car
 
 💡 Tips and Future Updates
 -
