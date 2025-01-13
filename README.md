@@ -51,15 +51,23 @@ Updates and troubleshooting will be added once the firmware is ready.
 
 .4: solder the + and - wires of the battery to the respective pads on the tp4056 labeld B+ and B- ensuring to first cut the red wire in half soldering a slide switch inbetween both halfes
 
-.5: eather glue ore tape the two boards to the undeside of the frame 
+.5: using a multimeater and a small screw driver set the boost converter to a steady 5v
 
-.6: solder two leads to each of the motors exposed pins (to make your life easier use two distinked colors) giving one motor wires about 2cm long and the other about 6cm long
+.6: eather glue ore tape the two boards to the undeside of the frame 
 
-.7: connect the other end of the wires to the drv8833 (make sure to group the motor wires E.G. motor 1 - out 1 - 2)
+.7: solder two leads to each of the motors exposed pins (to make your life easier use two distinked colors) giving one motor wires about 2cm long and the other about 6cm long
 
-.8: from the boost converter run two leads (red and black) from the out + and - pads to the gnd and vcc pins on the drv8833 and to the vin and gnd pins on the esp32 board
+.8: connect the other end of the wires to the drv8833 (make sure to group the motor wires E.G. motor 1 - out 1 - 2)
 
-.9: on the back of the drv8833 there are pins labeld in 1 - 4, run a wire from each one to the data pins D23 D22 D21 and D19 respectivly 
+.9: from the boost converter run two leads (red and black) from the out + and - pads to the gnd and vcc pins on the drv8833 and to the vin and gnd pins on the esp32 board
+
+.10: on the back of the drv8833 there are pins labeld in 1 - 4, run a wire from each one to the data pins D23 D22 D21 and D19 respectivly 
+
+.11: fit the motor wheels on the motor rod x2 and the non motor wheels in the empty wheel sockets (the non motor wheels will need 1 screw each
+
+.12 conect the esp32 to you computer and using arduino idle flash the provided firmware to the esp32 
+
+.13 now get your duleshock 4 controler and hold down the share and PS button until the light flashes then waight for it to connect to the esp32
 
 💡 Tips and Future Updates
 -
