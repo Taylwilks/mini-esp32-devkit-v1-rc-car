@@ -13,6 +13,10 @@ Print only Frame v3 or higher for optimal results. Earlier versions may be fragi
 
 .1x ESP32 Devkit V1
 
+.1x tp4056
+
+.1x dc-dc boost converter 5v
+
 .2x N20 Motors
 
 .1x DRV8833 Motor Driver Board (I recommend the smaller black version)
