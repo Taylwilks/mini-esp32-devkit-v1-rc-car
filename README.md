@@ -8,6 +8,7 @@ Frame Version Recommendation:
 
 Print only Frame v3 or higher for optimal results. Earlier versions may be fragile or require additional adjustments.
 
+
 🛠️ Materials Needed
 
 .1x ESP32 Devkit V1
@@ -31,6 +32,7 @@ Print only Frame v3 or higher for optimal results. Earlier versions may be fragi
 .hot glue or super glue
 
 
+
 🖨️ Step 1: Print the Frame
 -
 Download the provided STL files or click this link to take you to the maker world site    ( link coming soon ).
@@ -39,12 +41,14 @@ Note: Earlier frame versions (v1 and v2) are experimental and may not perform we
 Use Frame v3 or above for the best durability and fit.
 Print the files using your preferred 3D printer.
 
+
 🔌 Step 2: Flash the Firmware
 -
 Download the firmware (currently under development).
 Use the Arduino IDE (or another tool compatible with ESP32) to upload the code.
 Firmware status: Not yet available (expected soon).
 Updates and troubleshooting will be added once the firmware is ready.
+
 
 🛠️ Step 3: Assemble the Components
 -
@@ -77,7 +81,7 @@ Updates and troubleshooting will be added once the firmware is ready.
 .14: now we can test, when you press X the car should move forward, triangle backwards, and the left and right arrows will move left and right respectivlty
         (if the motors move the wrong way you will need to swap the motor wires around.
 
-.15: cause mayhem with your new rc esp32 car
+.15: cause mayhem with your new rc esp32 car, have fun running peoples toes over :)
 
 💡 Tips and Future Updates
 -
