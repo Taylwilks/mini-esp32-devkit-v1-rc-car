@@ -1,6 +1,7 @@
 ⚠️ Important Notes
-Soldering Required: This build involves soldering, including directly to the ESP32 board. If you're not comfortable with soldering A jumper cable-compatible version may be released in the future.
 -
+Soldering Required: This build involves soldering, including directly to the ESP32 board. If you're not comfortable with soldering A jumper cable-compatible version may be released in the future.
+
 Frame Version Recommendation: Print only Frame v3 or higher for optimal results. Earlier versions may be fragile or require additional adjustments.
 
 🛠️ Materials Needed
@@ -76,9 +77,9 @@ Updates and troubleshooting will be added once the firmware is ready.
 
 💡 Tips and Future Updates
 -
-A jumper cable-compatible version is under consideration for those who want a solder-free experience.
+A jumper cable-compatible version may be avalible sometime in the future for those who want a solder-free experience.
 Check back for firmware updates and enhanced frame designs.
 
 🤝 Contributions and Support
 -
-If you have ideas, find bugs, or want to improve this project, feel free to open an issue or submit a pull request!
+If you have ideas, find bugs, or want to improve this project, feel free to open an issue or submit a pull request.
